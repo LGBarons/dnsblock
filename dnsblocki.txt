@@ -1,0 +1,12 @@
+! Eigene FRITZ!Box DNS-Filterliste
+! Stand: 2026-11-06
+
+! Samsung Telemetrie / Metriken
+||nmetrics.samsung.com^
+||samsung.com^$third-party
+
+! media.net Advertising / Tracking
+||media.net^
+||media.net^$third-party
+||adxmedia.net^
+||contextweb.com^
